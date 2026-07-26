@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: "If you use this reconstruction pseudocode, please cite the associated CAC-QPI manuscript described in preferred-citation and this repository."
+title: "CAC-QPI Experimental Reconstruction Pseudocode"
+abstract: "Detailed end-to-end pseudocode and parameter definitions for the experimental CAC-QPI reconstruction of quantitative phase from two symmetric-defocus images and two weighted multiplexed off-axis illumination images."
+type: software
+license: MIT
+repository-code: "https://github.com/XBEN-z/CAC-QPI-reconstruction-pseudocode"
+keywords:
+  - quantitative phase imaging
+  - aberration correction
+  - off-axis illumination
+  - defocus modulation
+  - Zernike polynomials
+  - phase retrieval
+authors:
+  - family-names: Zhang
+    given-names: Xianben
+  - family-names: Liu
+    given-names: Yifei
+  - family-names: Liang
+    given-names: Fengyi
+  - family-names: Peng
+    given-names: Zenghui
+  - family-names: Diao
+    given-names: Zhihui
+  - family-names: Lu
+    given-names: Xinghai
+  - family-names: Li
+    given-names: Dayu
+  - family-names: Mu
+    given-names: Quanquan
+preferred-citation:
+  type: article
+  title: "Non-Iterative Quantitative Phase Imaging with Aberration Correction via Angular and Focal Modulation"
+  status: submitted
+  year: 2026
+  authors:
+    - family-names: Zhang
+      given-names: Xianben
+    - family-names: Liu
+      given-names: Yifei
+    - family-names: Liang
+      given-names: Fengyi
+    - family-names: Peng
+      given-names: Zenghui
+    - family-names: Diao
+      given-names: Zhihui
+    - family-names: Lu
+      given-names: Xinghai
+    - family-names: Li
+      given-names: Dayu
+    - family-names: Mu
+      given-names: Quanquan
