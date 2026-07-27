@@ -4,7 +4,7 @@ This repository provides manuscript-consistent pseudocode and parameter definiti
 
 > **Non-Iterative Quantitative Phase Imaging with Aberration Correction via Angular and Focal Modulation**
 
-The repository is intended to make the reconstruction procedure, calibration requirements, and numerical settings transparent and reproducible at the algorithm-specification level. It contains detailed pseudocode rather than executable source code. Raw experimental data, forward simulations, synthetic-object generation, and simulation-only validation modules are not included.
+The repository is intended to make the reconstruction procedure, calibration requirements, and numerical settings transparent and reproducible at the algorithm-specification level. It contains detailed pseudocode rather than executable source code.
 
 ## Measurement scheme
 
