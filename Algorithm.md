@@ -1,4 +1,4 @@
-# Algorithm S1: CAC-QPI Aberration Recovery and Quantitative Phase Reconstruction from Experimental Images
+# Algorithm : CAC-QPI Aberration Recovery and Quantitative Phase Reconstruction from Experimental Images
 
 ## 1. Purpose
 
